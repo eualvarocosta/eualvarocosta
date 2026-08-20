@@ -27,7 +27,8 @@ Um diferencial da minha trajetória é a experiência em levantamento e gestão 
 ## 🚀 Projetos em destaque
 
 - **[HydraDay](https://github.com/eualvarocosta/HydraDay)** – Integração de IA + frontend em React
-- **[Sistema de Concessão de Passagens e Diárias](https://github.com/eualvarocosta/Sistema-de-Concessao-de-Diarias-e-Passagens)**
-- **[Agendamento de Consultas Clínica MedLife](https://github.com/eualvarocosta/Agendamento-de-Consultas-Clinica-MedLife)**
+- **[API REST](https://github.com/eualvarocosta/API-REST)** – API REST para CRUD de lista de pessoas
+- **[Sistema de Concessão de Passagens e Diárias](https://github.com/eualvarocosta/Sistema-de-Concessao-de-Diarias-e-Passagens)** - Concepção técnica de requisitos para um sistema de gestão de viagens corporativas e governamentais
+- **[Agendamento de Consultas Clínica MedLife](https://github.com/eualvarocosta/Agendamento-de-Consultas-Clinica-MedLife)** - Elaboração técnica de um sistema de agendamento de consultas via WhatsApp utilizando um agente de IA para a automatização do processo
 
 ---
