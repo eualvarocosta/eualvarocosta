@@ -1,20 +1,33 @@
 ## 👋 Olá, eu sou o Álvaro Costa
 
-Desenvolvedor Fullstack Júnior, graduado em Análise e Desenvolvimento de Sistemas, com domínio prático de HTML, CSS, JavaScript, TypeScript, React, Node.js e PostgreSQL. Construo aplicações do front ao back-end, unindo lógica de programação sólida a boas práticas de Engenharia de Software — desde a modelagem de dados até a entrega de interfaces funcionais e responsivas.
+Desenvolvedor Fullstack Júnior, graduado em Análise e Desenvolvimento de Sistemas, com domínio prático de HTML, CSS, JavaScript, TypeScript, Java, Spring Boot, React, Node.js, PostgreSQL, Docker, Git/GitHub e modelagem de software. Construo aplicações do front ao back-end, unindo lógica de programação sólida a boas práticas de Engenharia de Software — desde a modelagem de dados até a entrega de interfaces funcionais e responsivas.
  
 Um diferencial da minha trajetória é a experiência em levantamento e gestão de requisitos: sei elicitar necessidades de negócio, escrever Histórias de Usuário e Critérios de Aceite, e mapear processos via BPMN e UML. Isso me dá uma visão ampla do ciclo de desenvolvimento — entendo não só como construir, mas por que construir, o que facilita o diálogo com times de produto, negócio e engenharia e ajuda a entregar software que realmente resolve o problema certo.
 
 ## 🛠️ Tecnologias
 
-- **Frontend**: Angular • React • TypeScript • JavaScript • HTML • CSS • SCSS
-- **Backend**: Node.js • Express • APIs REST
-- **Banco de dados**: PostgreSQL • SQLite • SQL
-- **Ferramentas**: Git e GitHub
-- **Gestão de Requisitos**: BPMN • UML • User Stories • Critérios de Aceite • Scrum • Kanban
+- **Frontend:** Angular • React • TypeScript • JavaScript • HTML • CSS • SCSS
+- **Backend:** Java • Spring Boot • Node.js • Express • APIs REST
+- **Banco de dados:** PostgreSQL • SQLite • SQL
+- **Segurança e Persistência:** Spring Security • JWT • JPA • Hibernate • Flyway
+- **Testes:** JUnit • Mockito • Testcontainers
+- **DevOps e Ferramentas:** Docker • Docker Compose • Git • GitHub • Maven
+- **Documentação de APIs:** Swagger • OpenAPI
+- **Análise e Requisitos:** BPMN • UML • User Stories • Critérios de Aceite • Scrum • Kanban
 
 ---
 
 ## 🚀 Projetos em destaque
+
+**[HelpDesk Equip API](https://github.com/eualvarocosta/HelpDesk-Equip-API)**
+
+Java 21 • Spring Boot • Spring Security • JWT • PostgreSQL • JPA/Hibernate • Flyway • Docker • Swagger/OpenAPI • JUnit • Mockito • Testcontainers
+
+API REST para gerenciamento de chamados técnicos, equipamentos e manutenções, desenvolvida com **Java 21 e Spring Boot**.
+
+O sistema possui autenticação com JWT, controle de acesso por perfis, gerenciamento de usuários, setores e equipamentos, fluxo completo de chamados, atribuição de técnicos, manutenção, histórico de alterações, auditoria e dashboard administrativo.
+
+---
 
 - **[💧 HydraDay](https://github.com/eualvarocosta/HydraDay)**
 
@@ -24,12 +37,15 @@ Aplicação web para acompanhamento diário de hidratação, com definição de 
 
 🌐 Aplicação: https://hydraday.netlify.app/
 
+---
 
 - **[🔗 API REST](https://github.com/eualvarocosta/API-REST)** – Cadastro de Pessoas
 
 Node.js • Express 5 • SQLite • CORS • HTTPS
 
 API REST desenvolvida para gerenciamento de pessoas através de operações CRUD. Possui separação entre rotas, controllers e configuração do banco de dados, persistência com SQLite e suporte simultâneo a HTTP e HTTPS utilizando certificado SSL.
+
+---
 
 - **[🎫 HelpFlow](https://github.com/eualvarocosta/HelpFlow)** 
 
